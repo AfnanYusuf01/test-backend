@@ -124,5 +124,3 @@ CREATE TABLE products (
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   FOREIGN KEY (parent_id) REFERENCES products(id)
 );
-```
-```
