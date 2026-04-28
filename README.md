@@ -126,7 +126,3 @@ CREATE TABLE products (
 );
 ```
 ```
-
----
-
-Ini lebih simpel dan mudah dibaca. Cukup untuk submission. 👍
